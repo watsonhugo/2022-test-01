@@ -1,2 +1,1 @@
-test some text
-add a new line
+test some new text
